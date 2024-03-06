@@ -14,7 +14,7 @@ class Perpustakaan { // Mendefinisikan kelas 'Perpustakaan'
     var delay = Duration(seconds: 2); // Membuat objek 'Duration' dengan durasi 2 detik
     await Future.delayed(delay); // Menunda eksekusi selama durasi yang ditentukan
     koleksiBuku.add(buku); // Menambahkan buku ke dalam 'koleksiBuku'
-    print('Buku "${buku.judul}" oleh ${buku.penulis} telah ditambahkan.'); // Menampilkan pesan bahwa buku telah ditambahkan
+    print('Buku "${buku.judul}" oleh ${buku.penulis} telah ditambahkan.\n'); // Menampilkan pesan bahwa buku telah ditambahkan
   }
 
   void tampilkanKoleksi() { // Metode 'tampilkanKoleksi' untuk menampilkan daftar buku dalam koleksi
