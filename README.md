@@ -2,7 +2,7 @@
 
 **NIM**    : 2205410
 **Nama**   : Raditya Adha Rahman
-
+**Kelas**  : C2
 
 Program melakukan implementasi dengan konsep OOP serta asynchronous dalam konteks pengelolaan buku di perpustakaan.
 
