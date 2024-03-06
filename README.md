@@ -16,3 +16,6 @@ Kelas Perpustakaan Merupakan representasi objek perpustakaan dalam dunia nyata. 
 
 Metode tambahBuku dan tampilkanKoleksi pada kelas Perpustakaan dijalankan secara asynchronous. Ini berarti bahwa operasi ini dapat dijalankan secara independen dan tidak akan menghentikan alur eksekusi program utama selama operasi tersebut sedang berjalan.
 Penggunaan async dan await memungkinkan operasi asynchronous ini untuk ditangani dengan cara yang lebih mudah dan intuitif, seolah-olah mereka adalah operasi synchronous biasa.
+
+### Screenshot Hasil Program
+![image](https://github.com/radityadhaaa/TP1_PROVIS/assets/133930595/4f623e53-0811-48d5-84a0-97effa0033bd)
